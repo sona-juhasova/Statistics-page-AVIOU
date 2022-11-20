@@ -5,7 +5,96 @@
         "hotspot_clicks" : 209,
         "link_clicked" : 134,
         "added_to_basket" : 83,
-        "estimated_revenue" : 688817
+        "estimated_revenue" : 688817,
+        "section" : "Smartphones"
+
+    },
+    {
+        "product_title" : "Google Pixel 6a smartphone 6/128 GB",
+        "views": 947,
+        "hotspot_clicks" : 245,
+        "link_clicked" : 44,
+        "added_to_basket" : 93,
+        "estimated_revenue" : 344007,
+        "section" : "Smartphones"
+
+
+    },
+    {
+        "product_title" : "Samsung Galaxy S22 5G smartphone, 8/128GB",
+        "views": 453,
+        "hotspot_clicks" : 234,
+        "link_clicked" : 210,
+        "added_to_basket" : 102,
+        "estimated_revenue" : 683298,        
+        "section" : "Smartphones"
+
+
+    },
+    {
+        "product_title" : "iPad 10,2 256 GB WiFi",
+        "views": 754,
+        "hotspot_clicks" : 187,
+        "link_clicked" : 34,
+        "added_to_basket" : 79,
+        "estimated_revenue" : 300121,
+        "section" : "Tablets"
+
+
+    },
+    {
+        "product_title" : "Lenovo Yoga Tab 11 tablet 4/128 WiFi",
+        "views": 609,
+        "hotspot_clicks" : 745,
+        "link_clicked" : 234,
+        "added_to_basket" : 236,
+        "estimated_revenue" : 707764,
+        "section" : "Tablets"
+
+
+    },
+    {
+        "product_title" : "iSamsung Galaxy Tab S8 WiFi tablet 256GB",
+        "views": 256,
+        "hotspot_clicks" : 123,
+        "link_clicked" : 33,
+        "added_to_basket" : 65,
+        "estimated_revenue" : 415935,
+        "section" : "Tablets"
+
+
+    },
+    {
+        "product_title" : "MacBook Air 13 M1/8/256 2020",
+        "views": 355,
+        "hotspot_clicks" : 231,
+        "link_clicked" : 96,
+        "added_to_basket" : 88,
+        "estimated_revenue" : 659912,
+        "section" : "Laptops"
+
+
+    },
+    {
+        "product_title" : "Asus 14 X415 i7/16/1024 14",
+        "views": 994,
+        "hotspot_clicks" : 643,
+        "link_clicked" : 234,
+        "added_to_basket" : 542,
+        "estimated_revenue" : 4877458,
+        "section" : "Laptops"
+
+
+    },
+    {
+        "product_title" : "Samsung Galaxy Book2 15,6",
+        "views": 456,
+        "hotspot_clicks" : 754,
+        "link_clicked" : 434,
+        "added_to_basket" : 187,
+        "estimated_revenue" : 1050753,
+        "section" : "Laptops"
+
 
     }
 ]
