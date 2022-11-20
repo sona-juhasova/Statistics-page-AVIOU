@@ -1,0 +1,13 @@
+//product info for the table
+
+[
+    {
+        "product_title" : "iPhone 14 – 5G smartphone 128GB Midnight",
+        "views": 234,
+        "hotspot_clicks" : 209,
+        "link_clicked" : 134,
+        "added_to_basket" : 83,
+        "estimated_revenue" : 688817
+
+    }
+]

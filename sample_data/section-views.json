@@ -1,0 +1,15 @@
+//section and the percentage of sessions during which they were viewed
+[
+    {
+        "section" : "Smartphones",
+        "views" : 45
+    },
+    {
+        "section" : "Tablets",
+        "views" : 32
+    },
+    {
+        "section" : "Laptops",
+        "views" : 87
+    }
+]

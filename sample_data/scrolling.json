@@ -1,0 +1,44 @@
+//how many percent of sessions scrolled how much percent of the catalogue
+
+[
+    {
+        "scrolled" : 10,
+        "sessions" : 92
+    },
+    {
+        "scrolled" : 20,
+        "sessions" : 86
+    },
+    {
+        "scrolled" : 30,
+        "sessions" : 82
+    },
+    {
+        "scrolled" : 40,
+        "sessions" : 78
+    },
+    {
+        "scrolled" : 50,
+        "sessions" : 75
+    },
+    {
+        "scrolled" : 60,
+        "sessions" : 68
+    },
+    {
+        "scrolled" : 70,
+        "sessions" : 51
+    },
+    {
+        "scrolled" : 80,
+        "sessions" : 42
+    },
+    {
+        "scrolled" : 90,
+        "sessions" : 34
+    },
+    {
+        "scrolled" : 100,
+        "sessions" : 15
+    }
+]

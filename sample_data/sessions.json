@@ -1,0 +1,47 @@
+//how many sessions happend every day for 10 days
+[
+    {
+        "date" : "2022-11-15",
+        "sessions" : 54
+    },
+    {
+        "date" : "2022-11-16",
+        "sessions" : 74
+    },
+    {
+        "date" : "2022-11-17",
+        "sessions" : 44
+    },
+    {
+        "date" : "2022-11-18",
+        "sessions" : 78
+    },
+    {
+        "date" : "2022-11-19",
+        "sessions" : 104
+    },
+    {
+        "date" : "2022-11-20",
+        "sessions" : 31
+    },
+    {
+        "date" : "2022-11-21",
+        "sessions" : 109
+    },
+    {
+        "date" : "2022-11-22",
+        "sessions" : 89
+    },
+    {
+        "date" : "2022-11-23",
+        "sessions" : 58
+    },
+    {
+        "date" : "2022-11-24",
+        "sessions" : 29
+    },
+    {
+        "date" : "2022-11-25",
+        "sessions" : 65
+    }
+]

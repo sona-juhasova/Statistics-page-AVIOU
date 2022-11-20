@@ -1,0 +1,23 @@
+// two catalogues so I can compare
+[
+    {
+        "catalogue_id" : "black-friday",
+        "catalogue_name" : "Black Friday 2022",
+        "time_range" : "15.11.2022 - 25.11.2022",
+        "sessions_total" : 2150,
+        "average_session_duration" : 5.45,
+        "add_to_basket_total" : 1245,
+        "add_to_basket_value_total" : 310988,
+        "add_to_basket_value_average" : 249.79
+    },
+    {
+        "catalogue_id" : "christmas-catalogue",
+        "catalogue_name" : "Christmas 2022",
+        "time_range" : "15.11.2022 - 25.11.2022",
+        "sessions_total" : 4789,
+        "average_session_duration" : 7.23,
+        "add_to_basket_total" : 2489,
+        "add_to_basket_value_total" : 510844,
+        "add_to_basket_value_average" : 205.24
+    }
+]
