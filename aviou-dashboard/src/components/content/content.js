@@ -22,11 +22,12 @@ function Content({catalogue_name,catalogue_id}) {
       <h2>date</h2>
 
       <Kpi  data={KPI_data.filter((item)=>{ return item.catalogue_id === catalogue_id})[0]}/>
-      
+
       <Sessions data={Sessions_data}/>
       <Scrolling data={Scrolling_data}/>
       <Sections data={Sections_data}/>
-      <Products data={Products_data}/>
+      <Products  data={Products_data}/>
+      
 
 
 

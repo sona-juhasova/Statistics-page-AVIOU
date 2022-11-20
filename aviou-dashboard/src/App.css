@@ -9,8 +9,7 @@
 
 .app-content-wrapper {
   display: flex;
-  flex-direction:column;
-  flex-grow: 1;
+  flex-direction:column; 
 }
 
 .app-content {
