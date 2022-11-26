@@ -7,7 +7,7 @@ function Products({data}) {
     return (
       <div className = "products" id="products_content" >
       {data.map((product) => (
-          <div className="user">{product.product_title}</div>
+          <div className="product">{product.product_title}</div>
         ))}
    
    </div>
