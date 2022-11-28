@@ -1,5 +1,38 @@
 .navigation {
     width: 250px;
-    height: 100vh;
-    border: 1px solid black;
+    height: 100vh; 
+    
+}
+
+.navigation-wrapper {
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.nav-el {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+.nav-indicator {
+    width: 2px;
+    height: 25px;
+    background: #d4d4d4;
+    margin-right: 15px; 
+
+}
+
+.nav-el-active > .nav-indicator{
+    background: #4dc1e1;
+}
+
+.nav-label {
+    font-size: 18px;
+
+}
+
+.nav-el-active > .nav-label{
+    font-weight: bold;
 }

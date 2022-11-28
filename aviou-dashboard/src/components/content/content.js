@@ -18,7 +18,8 @@ import Products_data from '../../sample_data/products.json'
 function Content({catalogue_name,catalogue_id}) {
   return (
     <div className="content">
-      <h1>Title of the catalogue</h1>
+       <div className="content-wrapper">
+      <h1>Catalogue name</h1>
       <h2>date</h2>
 
       <Kpi  data={KPI_data.filter((item)=>{ return item.catalogue_id === catalogue_id})[0]}/>
@@ -29,7 +30,7 @@ function Content({catalogue_name,catalogue_id}) {
       <Products  data={Products_data}/>
       
 
-
+      </div>
 
     </div>
   );

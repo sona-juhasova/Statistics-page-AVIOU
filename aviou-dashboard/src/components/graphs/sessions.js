@@ -19,7 +19,8 @@ class Sessions extends React.Component {
                     labels: this.props.data.map(row => row.date),
                     datasets: [{
                         label: 'New user sessions',
-                        data: this.props.data.map(row => row.sessions)
+                        data: this.props.data.map(row => row.sessions),
+                        backgroundColor: '#4dc1e1',
                     }]
                 }
             }
@@ -28,9 +29,20 @@ class Sessions extends React.Component {
     }
     render() {
         return ( 
+            <div className='graph-wrapper'>
+                <h3>New user session</h3>
+                <p>The graph displays amount of new user sessions during a certain period of time</p>
+
+
             <div className = "sessions" id="sessions_content" >
             
             </div>
+
+
+            <p>graph summary</p>
+
+</div>
+
         );
     }
 }

@@ -1,0 +1,113 @@
+/* kpi _______________________________ */
+.kpi {
+    margin-top: 20px;
+}
+ 
+
+.kpi-elements-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    margin-top: 30px;
+}
+
+.kpi-element {
+    background-color: #F3F9FC;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 0px;
+    border-radius: 20px;
+
+}
+
+.kpi-element-header {
+    font-weight: bold;
+    text-align: center;
+    width: 90%;
+    font-size: 14px;
+}
+
+.kpi-element-number {
+    font-size: 35px;
+    color: #4dc1e1;
+    font-weight: bold;
+    margin: 15px 0;
+}
+
+
+
+.kpi-element-comparison {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.kpi-divider {
+    width: 1px !important;
+    height: 100%;
+    background: #000;
+    margin: 0 10px;
+}
+
+.kpi-element-comparison div{
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+    font-size: 12px;
+
+}
+
+.kpi-element-comparison div:nth-of-type(1){
+    text-align: right;
+
+}
+
+.kpi-element-comparison div:nth-of-type(3){
+    text-align: left;
+
+}
+
+.kpi-element-comparison-value {
+    font-weight: bold;
+}
+
+/* graphs _______________________________ */
+.graph-wrapper {
+    margin: 20px 0 0 0;
+    width: 600px;
+
+    padding: 30px 50px;
+    border-radius: 20px;
+    background-color: #F3F9FC;
+
+}
+
+.graph-wrapper h3{
+
+    
+}
+
+.graph-wrapper p{
+    font-size: 14px;
+    
+}
+
+/* sessions _______________________________ */
+
+
+
+/* scrolling _______________________________ */
+
+
+
+/* section views _______________________________ */
+
+
+
+/* products _______________________________ */
+
+
+
+

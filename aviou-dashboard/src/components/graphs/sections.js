@@ -19,7 +19,8 @@ class Sections extends React.Component {
                     labels: this.props.data.map(row => row.section),
                     datasets: [{
                         label: 'Section views',
-                        data: this.props.data.map(row => row.views)
+                        data: this.props.data.map(row => row.views),
+                        backgroundColor: '#4dc1e1',
                     }]
                 }
             }
@@ -28,9 +29,19 @@ class Sections extends React.Component {
     }
     render() {
         return ( 
+            <div className='graph-wrapper'>
+                <h3>Section views</h3>
+                <p>The graphs displays how many percent of users viewed each section</p>
+
+
             <div className = "sections" id="sections_content" >
             
             </div>
+
+
+            <p>graph summary</p>
+
+</div>
         );
     }
 }

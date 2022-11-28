@@ -7,7 +7,8 @@
         "average_session_duration" : 5.45,
         "add_to_basket_total" : 1245,
         "add_to_basket_value_total" : 310988,
-        "add_to_basket_value_average" : 249.79
+        "add_to_basket_value_average" : 249.79,
+        "scrolled_over_90": 58
     },
     {
         "catalogue_id" : "christmas-catalogue",
@@ -17,6 +18,7 @@
         "average_session_duration" : 7.23,
         "add_to_basket_total" : 2489,
         "add_to_basket_value_total" : 510844,
-        "add_to_basket_value_average" : 205.24
+        "add_to_basket_value_average" : 205.24,
+        "scrolled_over_90": 72
     }
 ]

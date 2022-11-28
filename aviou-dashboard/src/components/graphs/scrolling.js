@@ -14,12 +14,13 @@ class Scrolling extends React.Component {
         sd.appendChild(canvasElement);
         new Chart(
             canvasElement, {
-                type: 'bar',
+                type: 'line',
                 data: {
                     labels: this.props.data.map(row => row.scrolled),
                     datasets: [{
                         label: 'Scrolling',
-                        data: this.props.data.map(row => row.sessions)
+                        data: this.props.data.map(row => row.sessions),
+                        backgroundColor: '#4dc1e1',
                     }]
                 }
             }
@@ -28,9 +29,19 @@ class Scrolling extends React.Component {
     }
     render() {
         return ( 
+        <div className='graph-wrapper'>
+        <h3>Scrolling</h3>
+        <p>The graphs displays how many percent of users scrolled every 10% of the catalogue</p>
+
+
             <div className = "scrolling" id="scrolling_content" >
             
             </div>
+
+
+            <p>graph summary</p>
+
+</div>
         );
     }
 }
