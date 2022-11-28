@@ -117,7 +117,7 @@
     border-collapse: collapse;
   }
   
-  .products-table  td, th {
+  .products-table  td, tr {
     border: 1px solid #999;
     padding: 0.5rem;
     text-align: center;
@@ -134,7 +134,11 @@
     text-align: left !important;
 }
 
-.products-table  td:hover{
+.products-table-row td:hover{
     background: rgba(77, 193, 225, 0.3);
+  }
+
+ .products-table-row:hover{
+    background: rgba(77, 193, 225, 0.1);
   }
  

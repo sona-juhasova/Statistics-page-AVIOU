@@ -16,7 +16,7 @@ function Products({ data }) {
 
       <div  id="products_content" >
 
-      <tr className='products-table-row row-header'>
+      <tr className='row-header'>
               <td className="product">Product title</td>
               <td className="product">Section</td>
               <td className="product">Views</td>
