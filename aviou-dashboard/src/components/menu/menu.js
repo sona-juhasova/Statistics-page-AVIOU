@@ -17,24 +17,24 @@ function Menu() {
 
       <div className="menu-elements">
         <div className="menu-el highlited-item">
-          <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="header-icon__frontend-components-blocks-nav-css-Section-module" width="25" height="25" data-av-icon="true" >
-            <g fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5px">
-              <rect height="4.5" rx="1.5" width="4.5" x=".75" y=".75" stroke="#FFFFFF" fill="none" stroke-width="1.5px"></rect>
-              <rect height="4.5" rx="1.5" width="4.5" x="9.75" y=".75" stroke="#FFFFFF" fill="none" stroke-width="1.5px"></rect>
-              <rect height="4.5" rx="1.5" width="4.5" x="18.75" y=".75" stroke="#FFFFFF" fill="none" stroke-width="1.5px"></rect>
-              <rect height="4.5" rx="1.5" width="4.5" x=".75" y="9.75" stroke="#FFFFFF" fill="none" stroke-width="1.5px"></rect>
-              <rect height="4.5" rx="1.5" width="4.5" x="9.75" y="9.75" stroke="#FFFFFF" fill="none" stroke-width="1.5px"></rect>
-              <rect height="4.5" rx="1.5" width="4.5" x="18.75" y="9.75" stroke="#FFFFFF" fill="none" stroke-width="1.5px"></rect>
-              <rect height="4.5" rx="1.5" width="4.5" x=".75" y="18.75" stroke="#FFFFFF" fill="none" stroke-width="1.5px"></rect>
-              <rect height="4.5" rx="1.5" width="4.5" x="9.75" y="18.75" stroke="#FFFFFF" fill="none" stroke-width="1.5px"></rect>
-              <rect height="4.5" rx="1.5" width="4.5" x="18.75" y="18.75" stroke="#FFFFFF" fill="none" stroke-width="1.5px"></rect>
+          <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" className="header-icon__frontend-components-blocks-nav-css-Section-module" width="25" height="25" data-av-icon="true" >
+            <g fill="none" stroke="#FFFFFF" strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.5px">
+              <rect height="4.5" rx="1.5" width="4.5" x=".75" y=".75" stroke="#FFFFFF" fill="none" strokeWidth="1.5px"></rect>
+              <rect height="4.5" rx="1.5" width="4.5" x="9.75" y=".75" stroke="#FFFFFF" fill="none" strokeWidth="1.5px"></rect>
+              <rect height="4.5" rx="1.5" width="4.5" x="18.75" y=".75" stroke="#FFFFFF" fill="none" strokeWidth="1.5px"></rect>
+              <rect height="4.5" rx="1.5" width="4.5" x=".75" y="9.75" stroke="#FFFFFF" fill="none" strokeWidth="1.5px"></rect>
+              <rect height="4.5" rx="1.5" width="4.5" x="9.75" y="9.75" stroke="#FFFFFF" fill="none" strokeWidth="1.5px"></rect>
+              <rect height="4.5" rx="1.5" width="4.5" x="18.75" y="9.75" stroke="#FFFFFF" fill="none" strokeWidth="1.5px"></rect>
+              <rect height="4.5" rx="1.5" width="4.5" x=".75" y="18.75" stroke="#FFFFFF" fill="none" strokeWidth="1.5px"></rect>
+              <rect height="4.5" rx="1.5" width="4.5" x="9.75" y="18.75" stroke="#FFFFFF" fill="none" strokeWidth="1.5px"></rect>
+              <rect height="4.5" rx="1.5" width="4.5" x="18.75" y="18.75" stroke="#FFFFFF" fill="none" strokeWidth="1.5px"></rect>
             </g>
           </svg>
           <h3>Publications</h3>
         </div>
 
         <div className="menu-el">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 18.244" class="header-icon__frontend-components-blocks-nav-css-Section-module" width="25" height="25" data-av-icon="true">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 18.244" className="header-icon__frontend-components-blocks-nav-css-Section-module" width="25" height="25" data-av-icon="true">
             <g id="cloud-download" transform="translate(0.004 -1.054)">
               <path id="Path_396" data-name="Path 396" d="M20,9.06A4.847,4.847,0,0,0,18.52,5.592a4.758,4.758,0,0,0-2.872-1.321.207.207,0,0,1-.159-.1A6.4,6.4,0,0,0,3.74,6.082a.209.209,0,0,1-.189.167A3.824,3.824,0,0,0,0,10.057a3.6,3.6,0,0,0,1.03,2.675,4.607,4.607,0,0,0,3,1.147.833.833,0,0,0,.821-.846.852.852,0,0,0-.846-.821,2.75,2.75,0,0,1-1.81-.667,1.978,1.978,0,0,1-.532-1.489,2.158,2.158,0,0,1,2.6-2.111.833.833,0,0,0,1-.766,4.738,4.738,0,0,1,9.015-1.74.8.8,0,0,0,.784.475,3.072,3.072,0,0,1,2.3.874A3.126,3.126,0,0,1,18.33,9.06a3.2,3.2,0,0,1-2.865,3.159.833.833,0,0,0,.11,1.66.8.8,0,0,0,.109-.007A4.838,4.838,0,0,0,20,9.06Z" fill="#FFFFFF"></path>
               <path id="Path_397" data-name="Path 397" d="M14.166,15.945H12.708a.208.208,0,0,1-.208-.208V9.7a1.25,1.25,0,1,0-2.5,0V15.74a.208.208,0,0,1-.208.208H8.333a.833.833,0,0,0-.589,1.422l2.916,2.916a.833.833,0,0,0,1.178,0l2.916-2.916a.833.833,0,0,0-.589-1.422Z" transform="translate(-1.252 -1.233)" fill="#FFFFFF"></path>
@@ -44,25 +44,25 @@ function Menu() {
         </div>
 
         <div className="menu-el">
-          <svg viewBox="0 0 21.445 22.798" xmlns="http://www.w3.org/2000/svg" class="header-icon__frontend-components-blocks-nav-css-Section-module" width="25" height="25" data-av-icon="true">
-            <g fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5px">
-              <path d="m17.878.75s.024 1.488 1.893 3.514a3.918 3.918 0 0 1 .3.341 2.745 2.745 0 1 1 -4.942 1.648 6.485 6.485 0 0 1 2.749-5.503z" stroke="#FFFFFF" fill="none" stroke-width="1.5px"></path>
-              <path d="m17.878 22.047a2.031 2.031 0 0 0 2.02-2.194l-.949-11.067a2.753 2.753 0 0 1 -2.177-.017l-.916 11.084a2.032 2.032 0 0 0 2.022 2.194z" stroke="#FFFFFF" fill="none" stroke-width="1.5px"></path>
-              <path d="m12.109 5.72-2.13-4.97-2.13 4.97v14.2a2.13 2.13 0 0 0 2.13 2.13 2.13 2.13 0 0 0 2.13-2.13z" stroke="#FFFFFF" fill="none" stroke-width="1.5px"></path>
-              <path d="m7.849 5.72 2.13 1.42 2.13-1.42" stroke="#FFFFFF" fill="none" stroke-width="1.5px"></path>
-              <path d="m7.849 18.498h4.26" stroke="#FFFFFF" fill="none" stroke-width="1.5px"></path>
-              <path d="m7.849 15.659h4.26" stroke="#FFFFFF" fill="none" stroke-width="1.5px"></path>
-              <path d="m5.01 17.078-2.13 4.97-2.13-4.97v-14.198a2.13 2.13 0 0 1 2.13-2.13 2.13 2.13 0 0 1 2.13 2.13z" stroke="#FFFFFF" fill="none" stroke-width="1.5px"></path>
-              <path d="m.75 17.078h4.26" stroke="#FFFFFF" fill="none" stroke-width="1.5px"></path>
-              <path d="m.75 4.3h4.26" stroke="#FFFFFF" fill="none" stroke-width="1.5px"></path>
-              <path d="m.75 11.399h4.26" stroke="#FFFFFF" fill="none" stroke-width="1.5px"></path>
+          <svg viewBox="0 0 21.445 22.798" xmlns="http://www.w3.org/2000/svg" className="header-icon__frontend-components-blocks-nav-css-Section-module" width="25" height="25" data-av-icon="true">
+            <g fill="none" stroke="#FFFFFF" strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.5px">
+              <path d="m17.878.75s.024 1.488 1.893 3.514a3.918 3.918 0 0 1 .3.341 2.745 2.745 0 1 1 -4.942 1.648 6.485 6.485 0 0 1 2.749-5.503z" stroke="#FFFFFF" fill="none" strokeWidth="1.5px"></path>
+              <path d="m17.878 22.047a2.031 2.031 0 0 0 2.02-2.194l-.949-11.067a2.753 2.753 0 0 1 -2.177-.017l-.916 11.084a2.032 2.032 0 0 0 2.022 2.194z" stroke="#FFFFFF" fill="none" strokeWidth="1.5px"></path>
+              <path d="m12.109 5.72-2.13-4.97-2.13 4.97v14.2a2.13 2.13 0 0 0 2.13 2.13 2.13 2.13 0 0 0 2.13-2.13z" stroke="#FFFFFF" fill="none" strokeWidth="1.5px"></path>
+              <path d="m7.849 5.72 2.13 1.42 2.13-1.42" stroke="#FFFFFF" fill="none" strokeWidth="1.5px"></path>
+              <path d="m7.849 18.498h4.26" stroke="#FFFFFF" fill="none" strokeWidth="1.5px"></path>
+              <path d="m7.849 15.659h4.26" stroke="#FFFFFF" fill="none" strokeWidth="1.5px"></path>
+              <path d="m5.01 17.078-2.13 4.97-2.13-4.97v-14.198a2.13 2.13 0 0 1 2.13-2.13 2.13 2.13 0 0 1 2.13 2.13z" stroke="#FFFFFF" fill="none" strokeWidth="1.5px"></path>
+              <path d="m.75 17.078h4.26" stroke="#FFFFFF" fill="none" strokeWidth="1.5px"></path>
+              <path d="m.75 4.3h4.26" stroke="#FFFFFF" fill="none" strokeWidth="1.5px"></path>
+              <path d="m.75 11.399h4.26" stroke="#FFFFFF" fill="none" strokeWidth="1.5px"></path>
             </g>
           </svg>
           <h3>Design</h3>
         </div>
 
         <div className="menu-el">
-          <svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 24 24" fill="currentColor" class="header-icon__frontend-components-blocks-nav-css-Section-module" width="25" height="25" data-av-icon="true">
+          <svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 24 24" fill="currentColor" className="header-icon__frontend-components-blocks-nav-css-Section-module" width="25" height="25" data-av-icon="true">
             <g fill="#FFFFFF">
               <path d="M22.5,9.1V8.2c0-1.2-1-2.2-2.2-2.2h-0.8V5.2c0-1.2-1-2.2-2.2-2.2H9V2.2C9,1,8,0,6.8,0H2.2C1,0,0,1,0,2.2v16.3
               c0,0.4,0.3,0.8,0.8,0.8s0.8-0.3,0.8-0.8V2.2c0-0.4,0.3-0.8,0.8-0.8h4.5c0.4,0,0.8,0.3,0.8,0.8v1.5c0,0.4,0.3,0.8,0.8,0.8h9
@@ -84,7 +84,7 @@ function Menu() {
         <div className="footer-el">
 
           <div className="support-icon">
-            <svg viewBox="0 0 37.805 37.805" class="" data-av-icon="true" >
+            <svg viewBox="0 0 37.805 37.805" data-av-icon="true" >
               <g>
                 <path d="M33.035,13.106a14.172,14.172,0,0,0-28.264,0A5.916,5.916,0,0,0,0,18.9v4.726a5.914,5.914,0,0,0,5.907,5.907H7.088a2.365,2.365,0,0,0,2.363-2.363V15.358A2.364,2.364,0,0,0,7.147,13a11.814,11.814,0,0,1,23.51,0,2.364,2.364,0,0,0-2.3,2.36V27.172a2.365,2.365,0,0,0,2.363,2.363,3.548,3.548,0,0,1-3.544,3.544H24.6a3.547,3.547,0,0,0-3.337-2.363H18.9a3.544,3.544,0,1,0,0,7.088h2.363A3.547,3.547,0,0,0,24.6,35.442h2.57a5.914,5.914,0,0,0,5.907-5.907v-.119A5.917,5.917,0,0,0,37.8,23.628V18.9A5.916,5.916,0,0,0,33.035,13.106ZM5.907,27.172a3.548,3.548,0,0,1-3.544-3.544V18.9a3.548,3.548,0,0,1,3.544-3.544H7.088V27.172Zm15.358,8.27H18.9a1.181,1.181,0,0,1,0-2.363h2.363a1.181,1.181,0,1,1,0,2.363ZM35.442,23.628A3.548,3.548,0,0,1,31.9,27.172H30.716V15.358H31.9A3.548,3.548,0,0,1,35.442,18.9Z"></path>
                 <path d="M59.553,87.758a1.181,1.181,0,0,0-1.592-1.746,5.809,5.809,0,0,1-7.86,0,1.181,1.181,0,1,0-1.592,1.746,8.162,8.162,0,0,0,11.043,0Z" transform="translate(-35.13 -62.561)"></path>
@@ -108,11 +108,11 @@ function Menu() {
             <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
               <defs>
                 <clipPath id="clip-path">
-                  <circle id="Ellipse_4" data-name="Ellipse 4" cx="60" cy="60" r="60" fill="none" stroke="#707070" stroke-width="1" />
+                  <circle id="Ellipse_4" data-name="Ellipse 4" cx="60" cy="60" r="60" fill="none" stroke="#707070" strokeWidth="1" />
                 </clipPath>
               </defs>
               <g id="Group_16" data-name="Group 16" transform="translate(-20394 -2410)">
-                <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(20394 2410)" clip-path="url(#clip-path)">
+                <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(20394 2410)" clipPath="url(#clip-path)">
                   <circle id="Ellipse_3" data-name="Ellipse 3" cx="60" cy="60" r="60" fill="#c4c4c4" />
                   <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="25.5" cy="26" rx="25.5" ry="26" transform="translate(34 24)" fill="#fff" />
                   <circle id="Ellipse_2" data-name="Ellipse 2" cx="40" cy="40" r="40" transform="translate(20 67)" fill="#fff" />

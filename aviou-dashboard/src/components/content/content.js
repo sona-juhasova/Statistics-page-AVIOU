@@ -22,7 +22,7 @@ function Content({catalogue_name,catalogue_id}) {
       <h1>Catalogue name</h1>
       <h2>date</h2>
 
-      <Kpi  data={KPI_data.filter((item)=>{ return item.catalogue_id === catalogue_id})[0]}/>
+      <Kpi  kpiData={KPI_data} selectedCatalogue={catalogue_id}/>
 
       <Sessions data={Sessions_data}/>
       <Scrolling data={Scrolling_data}/>

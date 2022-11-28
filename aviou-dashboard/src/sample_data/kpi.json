@@ -4,10 +4,10 @@
         "catalogue_name" : "Black Friday 2022",
         "time_range" : "15.11.2022 - 25.11.2022",
         "sessions_total" : 2150,
-        "average_session_duration" : 5.45,
+        "average_session_duration" : "5,45",
         "add_to_basket_total" : 1245,
         "add_to_basket_value_total" : 310988,
-        "add_to_basket_value_average" : 249.79,
+        "add_to_basket_value_average" : "249,79",
         "scrolled_over_90": 58
     },
     {
@@ -15,10 +15,33 @@
         "catalogue_name" : "Christmas 2022",
         "time_range" : "15.11.2022 - 25.11.2022",
         "sessions_total" : 4789,
-        "average_session_duration" : 7.23,
+        "average_session_duration" : "7,23",
         "add_to_basket_total" : 2489,
         "add_to_basket_value_total" : 510844,
-        "add_to_basket_value_average" : 205.24,
+        "add_to_basket_value_average" : "205,24",
+        "scrolled_over_90": 72
+    },
+    {
+        "catalogue_id" : "fall-catalogue",
+        "catalogue_name" : "Fall 2022",
+        "time_range" : "15.11.2022 - 25.11.2022",
+        "sessions_total" : 4789,
+        "average_session_duration" : "7,23",
+        "add_to_basket_total" : 2489,
+        "add_to_basket_value_total" : 510844,
+        "add_to_basket_value_average" : "205,24",
+        "scrolled_over_90": 72
+    }
+    ,
+    {
+        "catalogue_id" : "cyber-catalogue",
+        "catalogue_name" : "Cyber Monday 2022",
+        "time_range" : "15.11.2022 - 25.11.2022",
+        "sessions_total" : 4789,
+        "average_session_duration" : "7,23",
+        "add_to_basket_total" : 2489,
+        "add_to_basket_value_total" : 510844,
+        "add_to_basket_value_average" : "205,24",
         "scrolled_over_90": 72
     }
 ]

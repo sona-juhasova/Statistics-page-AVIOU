@@ -8,7 +8,7 @@ function Products({ data }) {
     <div className='graph-wrapper-products'>
        <div className='products-wrapper'>
       <h3>Products</h3>
-      <p>graph discription</p>
+      <p>Overview of user engagement on individual products</p>
 
       <table className='products-table'>
 
@@ -23,7 +23,7 @@ function Products({ data }) {
               <td className="product">Hotspot clicked</td>
               <td className="product">Link clicked</td>
               <td className="product">Added to basket</td>
-              <td className="product">Estimated revenue</td>
+              <td className="product">Estimated revenue (DKK)</td>
               
 
             </tr>
