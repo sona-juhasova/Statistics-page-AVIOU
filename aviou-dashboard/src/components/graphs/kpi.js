@@ -45,7 +45,7 @@ function Kpi({ data }) {
         </div>
 
         <div className='kpi-element'>
-          <span className='kpi-element-header'>Scrolled over 90% (users)</span>
+          <span className='kpi-element-header'>Users completed catalogue (scrolled over 90%)</span>
           <span className='kpi-element-number'>{data.scrolled_over_90}%</span>
           <div className='kpi-element-comparison'>
             <div>
@@ -77,7 +77,7 @@ function Kpi({ data }) {
         </div>
 
         <div className='kpi-element'>
-          <span className='kpi-element-header'>Value of products added to basket</span>
+          <span className='kpi-element-header'>Value of products added to basket (DKK)</span>
           <span className='kpi-element-number'>{data.add_to_basket_value_total}</span>
           <div className='kpi-element-comparison'>
             <div>
@@ -93,7 +93,7 @@ function Kpi({ data }) {
         </div>
 
         <div className='kpi-element'>
-          <span className='kpi-element-header'>Average value of products added to basket</span>
+          <span className='kpi-element-header'>Average value of products added to basket (DKK)</span>
           <span className='kpi-element-number'>{data.add_to_basket_value_average}</span>
           <div className='kpi-element-comparison'>
             <div>

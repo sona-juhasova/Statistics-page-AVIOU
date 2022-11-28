@@ -94,20 +94,47 @@
     
 }
 
-/* sessions _______________________________ */
-
-
-
-/* scrolling _______________________________ */
-
-
-
-/* section views _______________________________ */
-
 
 
 /* products _______________________________ */
 
+ .graph-wrapper-products {
+    margin: 20px 0 0 0;
+    width: 640px;
 
+    padding: 30px 10px 30px 50px;
+    border-radius: 20px;
+    background-color: #F3F9FC;
+ }
 
+.products-wrapper {
+    padding-right: 30px;
+    height: 500px;
+    overflow-y: scroll;
+}
 
+.products-table {
+    border-collapse: collapse;
+  }
+  
+  .products-table  td, th {
+    border: 1px solid #999;
+    padding: 0.5rem;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 12px;
+  }
+
+  .row-header {
+    font-weight: bold;  
+    background: rgba(77, 193, 225, 0.3);
+  }
+
+.product-title {
+    text-align: left !important;
+}
+
+.products-table  td:hover{
+    background: rgba(77, 193, 225, 0.3);
+  }
+ 

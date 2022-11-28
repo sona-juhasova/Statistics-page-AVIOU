@@ -38,9 +38,7 @@ class Sections extends React.Component {
             
             </div>
 
-
-            <p>graph summary</p>
-
+ 
 </div>
         );
     }
