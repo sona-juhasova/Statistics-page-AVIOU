@@ -19,8 +19,8 @@ function Content({catalogue_name,catalogue_id}) {
   return (
     <div className="content">
        <div className="content-wrapper">
-      <h1>Catalogue name</h1>
-      <h2>date</h2>
+      <h1>CBlack Friday 2022</h1>
+      <h2>15.11.2022 - 25.11.2022</h2>
 
       <Kpi  kpiData={KPI_data} selectedCatalogue={catalogue_id}/>
 

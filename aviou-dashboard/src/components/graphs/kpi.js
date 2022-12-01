@@ -33,7 +33,7 @@ class Kpi extends Component
     let dataCompare = this.state.dataCompare;
     console.log(this.state);
 
-    let sessions_total_all_time = 
+    // let sessions_total_all_time = 
 
     return (
       <div className="kpi">

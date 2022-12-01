@@ -125,15 +125,20 @@
     font-size: 12px;
   }
 
+ 
+
   .row-header {
     font-weight: bold;  
     background: linear-gradient(180deg, #4DC1E1 0%, #29A1C3 100%);
-    color: #fff;
+    color: #fff; 
+    height: 50px;
+
+    border: 1px solid #29A1C3;
     
   }
  
 
-.product-title {
+.products-table-row td:nth-of-type(1){
     text-align: left !important;
     font-weight: bold;
 }

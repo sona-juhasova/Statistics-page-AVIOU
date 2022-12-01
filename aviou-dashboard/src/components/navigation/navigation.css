@@ -1,6 +1,10 @@
 .navigation {
     width: 250px;
     height: 100vh; 
+    position: fixed;
+    top: 150px;
+    left: 0;
+    margin-left: 250px;
     
 }
 
