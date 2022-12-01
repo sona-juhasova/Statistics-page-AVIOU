@@ -16,11 +16,12 @@ import Products_data from '../../sample_data/products.json'
 
 
 function Content({catalogue_name,catalogue_id}) {
+  let data = KPI_data.filter((x)=>{return (x.catalogue_id == catalogue_id)})[0];
   return (
     <div className="content">
        <div className="content-wrapper">
-      <h1>CBlack Friday 2022</h1>
-      <h2>15.11.2022 - 25.11.2022</h2>
+      <h1>{data.catalogue_name}</h1>
+      <h2>{data.time_range}</h2>
 
       <Kpi  kpiData={KPI_data} selectedCatalogue={catalogue_id}/>
 
