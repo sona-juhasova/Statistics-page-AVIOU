@@ -7,7 +7,7 @@ const Table = ({ caption, data, columns }) => {
 
   return (
     <>
-      <table className="products-table">
+      <table className="products-table sortable-table">
         <caption>{caption}</caption>
         <TableHead {...{ columns, handleSorting }} />
         <TableBody {...{ columns, tableData }} />
