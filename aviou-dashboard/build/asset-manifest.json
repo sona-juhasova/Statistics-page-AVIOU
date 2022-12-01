@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Statistics-page-AVIOU/static/css/main.b12d1802.css",
-    "main.js": "/Statistics-page-AVIOU/static/js/main.92a13a14.js",
+    "main.css": "/Statistics-page-AVIOU/static/css/main.02e7abcc.css",
+    "main.js": "/Statistics-page-AVIOU/static/js/main.9d24d844.js",
     "static/js/787.e614be72.chunk.js": "/Statistics-page-AVIOU/static/js/787.e614be72.chunk.js",
     "index.html": "/Statistics-page-AVIOU/index.html",
-    "main.b12d1802.css.map": "/Statistics-page-AVIOU/static/css/main.b12d1802.css.map",
-    "main.92a13a14.js.map": "/Statistics-page-AVIOU/static/js/main.92a13a14.js.map",
+    "main.02e7abcc.css.map": "/Statistics-page-AVIOU/static/css/main.02e7abcc.css.map",
+    "main.9d24d844.js.map": "/Statistics-page-AVIOU/static/js/main.9d24d844.js.map",
     "787.e614be72.chunk.js.map": "/Statistics-page-AVIOU/static/js/787.e614be72.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b12d1802.css",
-    "static/js/main.92a13a14.js"
+    "static/css/main.02e7abcc.css",
+    "static/js/main.9d24d844.js"
   ]
 }
