@@ -1,3 +1,5 @@
+// sortable table code source: https://blog.logrocket.com/creating-react-sortable-table/
+
 import TableBody from "./table-body";
 import TableHead from "./table-head";
 import { useSortableTable } from "./use-sortable-table"

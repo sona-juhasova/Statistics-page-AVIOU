@@ -4,8 +4,12 @@ const TableBody = ({ tableData, columns }) => {
         {tableData.map((data) => {
           return (
             <tr key={data.product_id} className='products-table-row'>
-              {columns.map(({ accessor }) => {
-                const tData = data[accessor] ? data[accessor] : "——";
+              {columns.map(({ accessor,format }) => {
+                let tData = data[accessor] ? data[accessor] : "——";
+                if(data[accessor] && format)
+                {
+                    tData = format(tData);
+                }
                 return <td key={accessor}>{tData}</td>;
               })}
             </tr>

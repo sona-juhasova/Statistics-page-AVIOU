@@ -9,11 +9,11 @@ function Products({ data }) {
   var columns=[
     { label: "Product title", accessor: "product_title", sortable: true},
     { label: "Section", accessor: "section", sortable: true },
-    { label: "Views", accessor: "views", sortable: true },
-    { label: "Hotspot clicked", accessor: "hotspot_clicks", sortable: true },
-    { label: "Link clicked", accessor: "link_clicked", sortable: true },
-    { label: "Added to basket", accessor: "added_to_basket", sortable: true },
-    { label: "Estimated revenue (DKK)", accessor: "estimated_revenue", sortable: true },
+    { label: "Views", accessor: "views", sortable: true, format: function(value){return value.toLocaleString("da-DK")}},
+    { label: "Hotspot clicked", accessor: "hotspot_clicks", sortable: true , format: function(value){return value.toLocaleString("da-DK")}},
+    { label: "Link clicked", accessor: "link_clicked", sortable: true , format: function(value){return value.toLocaleString("da-DK")}},
+    { label: "Added to basket", accessor: "added_to_basket", sortable: true , format: function(value){return value.toLocaleString("da-DK")}},
+    { label: "Estimated revenue (DKK)", accessor: "estimated_revenue", sortable: true, format: function(value){return value.toLocaleString("da-DK")}},
   ];
   return (
     

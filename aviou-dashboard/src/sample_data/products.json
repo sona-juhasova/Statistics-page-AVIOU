@@ -35,6 +35,30 @@
 
     },
     {
+        "product_id": 10,
+        "product_title" : "iPhone 13 mini – 5G smartphone 128GB Pink",
+        "views": 1883,
+        "hotspot_clicks" : 934,
+        "link_clicked" : 85,
+        "added_to_basket" : 193,
+        "estimated_revenue" : 294837,
+        "section" : "Smartphones"
+
+
+    },
+    {
+        "product_id": 11,
+        "product_title" : "Xiaomi Redmi 9A smartphone 2/32GB ",
+        "views": 455,
+        "hotspot_clicks" : 943,
+        "link_clicked" : 203,
+        "added_to_basket" : 325,
+        "estimated_revenue" : 113466,        
+        "section" : "Smartphones"
+
+
+    },
+    {
         "product_id": 4,
         "product_title" : "iPad 10,2 256 GB WiFi",
         "views": 754,
@@ -102,6 +126,54 @@
         "link_clicked" : 434,
         "added_to_basket" : 187,
         "estimated_revenue" : 1050753,
+        "section" : "Laptops"
+
+
+    },
+    {
+        "product_id": 12,
+        "product_title" : "Lenovo Tab M10 FHD Plus 10,3 tablet 64 GB",
+        "views": 2843,
+        "hotspot_clicks" : 855,
+        "link_clicked" : 22,
+        "added_to_basket" : 563,
+        "estimated_revenue" : 983743,
+        "section" : "Tablets"
+
+
+    },
+    {
+        "product_id": 13,
+        "product_title" : "Acer 10,36 tablet",
+        "views": 9533,
+        "hotspot_clicks" : 325,
+        "link_clicked" : 64,
+        "added_to_basket" : 903,
+        "estimated_revenue" : 673822,
+        "section" : "Tablets"
+
+
+    },
+    {
+        "product_id": 14,
+        "product_title" : "HUAWEI MateBook D 15 i5/8/512 bærbar computer",
+        "views": 949,
+        "hotspot_clicks" : 483,
+        "link_clicked" : 499,
+        "added_to_basket" : 324,
+        "estimated_revenue" : 535522,
+        "section" : "Laptops"
+
+
+    },
+    {
+        "product_id": 15,
+        "product_title" : "Lenovo IdeaPad 3i Pen/4/128 17,3",
+        "views": 953,
+        "hotspot_clicks" : 532,
+        "link_clicked" : 322,
+        "added_to_basket" : 333,
+        "estimated_revenue" : 458333,
         "section" : "Laptops"
 
 
