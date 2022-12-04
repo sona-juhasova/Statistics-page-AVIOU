@@ -8,7 +8,7 @@ class Kpi extends Component
     super();
     console.log(selectedCatalogue);
     let data = kpiData.filter((x)=>{return (x.catalogue_id == selectedCatalogue)})[0];
-    let allCatalogues = [{id:"",name:"None"}].concat(kpiData.filter((x)=>{return (x.catalogue_id != selectedCatalogue)})
+    let allCatalogues = [{id:"",name:"Select a catalogue for comparison"}].concat(kpiData.filter((x)=>{return (x.catalogue_id != selectedCatalogue)})
     .map((x)=>{return {id:x.catalogue_id, name:x.catalogue_name};}))
 
     this.state = {
